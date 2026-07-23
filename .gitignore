@@ -1,0 +1,10 @@
+data/raw/
+data/sample/
+data/processed/*.csv
+data/processed/*.db
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
